@@ -77,3 +77,10 @@ A foundation for building larger applications using clean OOP design
 
 
 ---
+🧑‍💻 Author
+
+> Abed-El-Hassib Lakhdari
+🎓 Computer Science 
+🚀 Passionate about mastering C++ and problem solving
+> 
+## 🌟 Feel free to fork this repo, explore the code, and give it a ⭐️ if you found it helpful!
