@@ -29,13 +29,9 @@ Miscellaneous OOP Features – this pointer usage, organizing code into librarie
 
 🛠 Projects Implemented
 
-Bank Account Management – Encapsulation, constructors, destructors
-
-Library Management System – Inheritance & polymorphism
-
-Employee Management – Static members & methods
-
-Shape Drawing App – Polymorphism with base and derived classes
+-Calculator 
+- String Library project
+- Date Library project
 
 
 
