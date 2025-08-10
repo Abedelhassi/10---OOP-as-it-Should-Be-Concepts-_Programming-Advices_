@@ -41,7 +41,7 @@ Calculator
 
 1. Clone this repository:
 
-git clone https://github.com/YourUsername/OOP-Concepts.git
+git clone https://github.com/Abedelhassi/10---OOP-as-it-Should-Be-Concepts-_Programming-Advices_.git
 
 
 2. Open the project in Visual Studio or any C++ IDE.
@@ -60,7 +60,7 @@ This repo serves as:
 
 A reference for core OOP concepts in C++
 
-A portfolio showcase for potential employers
+
 
 A foundation for building larger applications using clean OOP design
 
